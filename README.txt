@@ -63,6 +63,8 @@ Notes
 
     If using or citing any part of this dataset, please refer to the original publication by T.P.W. Vervenne.
 
+    For contact with the researcher, you can email to t.p.w.vervenne@uva.nl
+
 Citation
 
 If you use this dataset, please cite:
